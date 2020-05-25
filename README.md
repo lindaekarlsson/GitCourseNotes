@@ -1,1 +1,1 @@
-"# GitCourseNotes" 
+# GitCourseNotes
